@@ -3,7 +3,7 @@
 Bem-vindo(a) ao **Guia para Futuros Devs**! 
 
 Este projeto foi desenvolvido como parte de um desafio promovido pela [**Alura**](https://www.alura.com.br) + **Google** durante a semana da **Imersão Dev**. 
-O objetivo principal foi aprender HTML, CSS e JavaScript e desenvolver um projeto do zero com a ajuda do [Gemine](https://gemini.google.com/) como ferramenta de suporte para auxiliar na criação e organização de projetos de programaçãoa Inteligência Artifical do Google.
+O objetivo principal foi aprender HTML, CSS e JavaScript e desenvolver um projeto do zero com a ajuda do [Gemini](https://gemini.google.com/) como ferramenta de suporte para auxiliar na criação e organização de projetos de programação a Inteligência Artifical do Google.
 
 
 
@@ -11,7 +11,7 @@ O objetivo principal foi aprender HTML, CSS e JavaScript e desenvolver um projet
 - [Demonstração](#demonstracao)
 - [Sobre](#sobre)
 - [Funcionalidades](#como-visualizar-o-projeto) 
-- [Tecnologias Utilizadas](#tecnologias-utilizadas) 
+- [Tecnologias utilizadas](#tecnologias-utilizadas) 
 - [Como acessar ](#como-usar) 
 - [Estrutura do projeto](#estrutura-do-projeto) 
 - [Contribuições](#contribuições) 
@@ -25,7 +25,7 @@ O objetivo principal foi aprender HTML, CSS e JavaScript e desenvolver um projet
 
 ## 📝 Sobre
 
-O objetivo desse projeto é fornecer um guia simples e prático para quem está começando na programação, ajudando a encontrar informações sobre as principais linguagens de forma rápida e eficiente. Com foco em linguagens como HTML, CSS, JavaScript podendo tter novas linguagem adicionadas posteriormente. Este projeto serve como um ponto de partida para futuros desenvolvedores que desejam iniciar sua jornada no universo da programação.
+O objetivo desse projeto é fornecer um guia simples e prático para quem está começando na programação, ajudando a encontrar informações sobre as principais linguagens de forma rápida e eficiente. Com foco em linguagens como HTML, CSS, JavaScript podendo ter novas linguagem adicionadas posteriormente. Este projeto serve como um ponto de partida para futuros desenvolvedores que desejam iniciar sua jornada no universo da programação.
 
 
  ## ✔️ Funcionalidades
@@ -40,7 +40,7 @@ O objetivo desse projeto é fornecer um guia simples e prático para quem está 
 - **HTML5:** Para estruturar o conteúdo da página.
 - **CSS3:** Para a estilização da interface e design visual, com foco em simplicidade 
 - **JavaScript:** Para adicionar a funcionalidade de pesquisa e manipulação de conteúdo.
-- **Gemine (IA)**: Suporte e sugestões para otimização do projeto.
+- **Gemini (IA)**: Suporte e sugestões para otimização do projeto.
 
 ## 🌐 Como acessar e usar
 
