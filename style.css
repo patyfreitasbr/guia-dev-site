@@ -1,0 +1,243 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap');
+
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #d6b6ee;
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+
+  /* imagem de fundo*/
+  background-image: url('./assets/background.png');
+  background-size: cover; /*ajusta a imag cobrindo toda a área proporcionalmente*/
+  background-position: center;
+  background-repeat: no-repeat;
+
+}
+
+header {
+  position:fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  padding: 15px 30px;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 1000;
+  background-color;   
+  height: 40px;
+  background-color: rgba(65, 11, 107, 0.37);
+
+}
+
+nav {
+ margin: 70px;
+ 
+}
+
+header .logo-name {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  cursor: pointer;
+  width: 100px;
+  margin-bottom: 0;
+ 
+}
+
+header .logo-name img {
+  width: 200px;
+  
+  
+}
+
+header nav a {
+    color: #ffffff;
+    text-decoration: none;
+    position: relative;
+}
+
+
+h1 {
+  font-family: "Orbitron", Arial; sans-serif;
+  text-align: center;
+  display: flex;
+  font-size: 7rem;
+  color: #d4b2fc;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Sombra preta com leve transparência */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+   margin-bottom: 0.2rem; /*margin inferior titulo*/
+  
+   margin: 0 auto; /* Centraliza o elemento horizontalmente */
+
+
+}
+
+
+section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 3rem;
+  
+}
+
+section input {
+  width: 30rem;
+  text-align: center;;
+  border: none;
+  padding: 1rem;
+  border-radius: 1.5rem;
+  margin-bottom: 1rem;
+  color:#5e1098;
+  font-size: 1rem;
+  box-sizing: border-box;
+}
+
+section button {
+  padding: 0.8rem 1.2rem;
+  border: none;
+  border-radius: 1.5rem;
+   font-size: 1rem;
+  cursor: pointer;
+  margin-bottom: 1rem; /* Espaçamento abaixo do botão Pesquisar */
+}
+
+.btn-pesquisar {
+  background-color: #5e1098; 
+  color: #ffffff; /* Cor do texto */
+  padding: 0.8rem 1.2rem;
+  border-radius: 1.5rem;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease; /* Transição suave na mudança de cor */
+}
+
+.btn-pesquisar:hover { 
+  background-color: #3f185f; 
+  color: #ffffff;/* Cor de fundo mais escura ao passar o mouse */
+}
+
+
+.btn-limpar { /* Estilo específico para o botão Limpar */
+  background-color: #ad8ac9; /* Cor de fundo diferente para o botão Limpar */
+  color: #5e1098; /* Cor do texto */
+  padding: 0.8rem 1.2rem;
+  border-radius: 1.5rem;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease; /* Transição suave na mudança de cor */
+}
+
+.btn-limpar:hover { 
+  background-color: #3f185f; 
+  color: #ffffff;/* Cor de fundo mais escura ao passar o mouse */
+}
+
+.frase-explicativa {
+  text-align: center;
+  color: #d4b2fc;
+  margin-bottom: 2rem;/* Adiciona um espaço abaixo da frase */
+}
+
+.frase-explicativa p {
+  line-height: 1.5; /* Aumenta o espaçamento entre linhas */
+}
+
+.resultados-pesquisa {
+  width:60rem;
+  overflow-y: auto;  /* Adiciona barra de rolagem se o conteúdo exceder a altura mínima */
+  margin-top: 1rem;  
+  border-radius: 0.6rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Adiciona sombra para destaque */
+
+}
+
+.item-resultado {
+  background: #ffffff;
+  border-radius: 0.6rem;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.item-resultado h2 {
+font-size: 1.5rem;
+color: #222831;
+}
+
+.item-resultado a {
+  text-decoration: none;
+  color: #5e1098;
+}
+
+.item-resultado a:hover {
+  text-decoration: underline;
+}
+
+.descricao-meta {
+  color: #45474B;
+}
+
+/* Classe para o texto de erro */
+.resultado-aviso {
+  color: #ffffff; /* Cor branca */
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+/* Classe para o link de erro */
+.link-resultado {
+  color: #ffffff; /* Cor branca para o link */
+}
+
+.link-resultado:hover {
+  text-decoration: underline; /* Adiciona sublinhado ao passar o mouse */
+}
+
+
+footer {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgba(24, 3, 41, 0.884);
+  color: #ffffff;
+  padding: 0;
+  text-align: center;
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  font-size: 0.9rem;
+}
+
+footer a {
+  color: #ffffff;
+  text-decoration: none;
+
+}
+
+footer a:hover {
+  text-decoration: underline;  
+
+}
+
+.social-media {
+  display: flex;
+  justify-content: center;
+  
+}
+
+.social-media a {
+  margin: 0 5px;
+}
+
+.social-media img {
+  width: 50px;
+  height: 50px;
+}

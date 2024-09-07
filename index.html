@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="assets/favicon.ico" type="image/x-icon">
+    <title>Guia DEV</title>
+</head>
+
+<body>
+    <header>
+      <div class="logo-name">
+          <img src="./assets/logo.png" alt="Logo">
+      </div>
+       
+      <nav>
+        <a href="https://discord.gg/sVdkny8H" target="_blank" alt="Discord"> Faça parte do nosso grupo estudos no Discord</a>
+      </nav>
+        
+    </header>
+
+    <main>
+      <h1>Guia DEV</h1>
+        <section class="frase-explicativa">
+        <p>Saiba sobre cada linguagem e o que estudar em cada uma delas</p>
+        </section>
+
+        <section>
+            <input type="text" placeholder="Digite a linguagem ou a área de atuação" id="campo-pesquisa">
+            <button class="btn-pesquisar" onclick="pesquisar()">Pesquisar</button>
+            <button class="btn-limpar" onclick="limpar()">Limpar</button> <!-- Botão Limpar -->
+                    </section>
+        <section class="resultados-pesquisa" id="resultados-pesquisa">
+        </section>
+    </main>
+    <footer>
+      <div class="social-media">
+        <a href="https://www.instagram.com/patyfreitasbr" target="_blank" title="Nosso Instagram"> <img src="assets/instagram-icon.png" alt="instagram"></a>
+        <a href="https://github.com/patyfreitasbr" target="_blank" title="Nosso GitHub"><img src="assets/github-icon.png" alt="GitHub"></a>
+        <a href="https://www.youtube.com/patyfreitasbr" target="_blank"title="Nosso YouTube"><img src="assets/youtube-icon.png" alt="YouTube"></a>
+             
+      </div>
+        <p> <a href="https://www.linkedin.com/in/patyfreitasbr/" target="_blank" class="myname"> <strong>Patrícia Freitas</strong></a> &copy; 2024 Todos os direitos reservados.</p>
+       
+    </footer>
+    <script src="dados.js"></script>
+    <script src="app.js"></script>
+</body>
+
+</html>
