@@ -44,7 +44,7 @@ O objetivo desse projeto é fornecer um guia simples e prático para quem está 
 
 ## 🌐 Como acessar e usar
 
-1. Acesse o site através do  []()
+1. Acesse o site através do  [Link do site](https://patyfreitasbr.github.io/guia-dev-site/)
 2. Digite o nome de uma linguagem de programação na barra de pesquisa e clique em "Pesquisar". Você verá uma breve descrição e um link para aprender mais!
 
 ## 📂Estrutura do projeto
