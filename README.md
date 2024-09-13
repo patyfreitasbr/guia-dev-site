@@ -1,26 +1,31 @@
 # 👩‍💻 Guia Dev
 
-## Bem-vindo(a) ao **Guia para Devs**! 
+Bem-vindo(a) ao **Guia para Futuros Devs**! 
+
+Este projeto foi desenvolvido como parte de um desafio promovido pela [**Alura**](https://www.alura.com.br) + **Google** durante a semana da **Imersão Dev**. 
+O objetivo principal foi aprender HTML, CSS e JavaScript e desenvolver um projeto do zero com a ajuda do [Gemine](https://gemini.google.com/) como ferramenta de suporte para auxiliar na criação e organização de projetos de programaçãoa Inteligência Artifical do Google.
 
 
-• [Sobre](#sobre) • [Sobre o projeto](#sobre-o-projeto) • [Demonstração](#demonstracao) • [Sobre](#sobre) • [Funcionalidades](#como-visualizar-o-projeto) • [Tecnologias Utilizadas](#tecnologias-utilizadas) 
-• [Como acessar e usar](#como-usar) • [Estrutura do projeto](#estrutura-do-projeto) 
-• [Contribuições](#contribuições) • [Agradecimento](#agradecimento) 
-• [Contato](#contato)
 
-## A ideia
-
-Este projeto está sendo desenvolvido como forma de aprimorar meus conhecimentos nas linguagens HTML, CSS e JavaScript e também usar as Inteligências Artificias como ferramenta de suporte para auxiliar na criação e organização do projeto. Inicialmente foi utilizada a Inteligência Artifial Google Gemini, mas após a imersão, como forma de conhecer mais as princppais I.As estou usando também também a I.A ChatGPT. Foi idealizado durante desafio proposto na [Imersão Dev da Alura + Google Gemini](). 
-
-## Sobre o projeto
-
-O objetivo desse projeto é fazer dele um ponto de partida para futuros desenvolvedores que desejam iniciar sua jornada no universo da programação.
-
-Um guia simples e prático onde poderão encontrar informações sobre as principais linguagens de forma rápida e eficiente, o que estudar em cada uma delas para coemçar e onde encontrar esses conteúdos de forma gratuita e  paga.
+## 🔗 Índice
+- [Demonstração](#demonstracao)
+- [Sobre](#sobre)
+- [Funcionalidades](#como-visualizar-o-projeto) 
+- [Tecnologias Utilizadas](#tecnologias-utilizadas) 
+- [Como acessar ](#como-usar) 
+- [Estrutura do projeto](#estrutura-do-projeto) 
+- [Contribuições](#contribuições) 
+- [Agradecimento](#agradecimento) 
+- [Contato](#contato)
 
 ## 👀 Demonstração 
 
 ![Gif página](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDFjuomU0dIA2shEjTmaJ09eF-AAzToefcFUeAaQb2ubqnIPINLKZMplH8ANp85upooJpzOlRB6AHCewY-FdnO4YQ69yqxxi1KEFlh1fzRASq9pX1XFR5y_PASf5VLGigDI3eK8vhqoNYsOPKhGQzNSVb5St4_bmcpX-rTRBzhBVLo_4WY7s-2SNg-y3bk/s16000/site-guiadev.gif)
+
+
+## 📝 Sobre
+
+O objetivo desse projeto é fornecer um guia simples e prático para quem está começando na programação, ajudando a encontrar informações sobre as principais linguagens de forma rápida e eficiente. Com foco em linguagens como HTML, CSS, JavaScript podendo tter novas linguagem adicionadas posteriormente. Este projeto serve como um ponto de partida para futuros desenvolvedores que desejam iniciar sua jornada no universo da programação.
 
 
  ## ✔️ Funcionalidades
@@ -35,11 +40,11 @@ Um guia simples e prático onde poderão encontrar informações sobre as princi
 - **HTML5:** Para estruturar o conteúdo da página.
 - **CSS3:** Para a estilização da interface e design visual, com foco em simplicidade 
 - **JavaScript:** Para adicionar a funcionalidade de pesquisa e manipulação de conteúdo.
-- **IAs Gemini e ChatGPT**: Suporte e sugestões para otimização do projeto.
+- **Gemine (IA)**: Suporte e sugestões para otimização do projeto.
 
 ## 🌐 Como acessar e usar
 
-1. Acesse o site através do  [**LINK**](https://patyfreitasbr.github.io/guia-dev-site)
+1. Acesse o site através do  []()
 2. Digite o nome de uma linguagem de programação na barra de pesquisa e clique em "Pesquisar". Você verá uma breve descrição e um link para aprender mais!
 
 ## 📂Estrutura do projeto
