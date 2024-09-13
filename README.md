@@ -35,7 +35,7 @@ Um guia simples e prático onde poderão encontrar informações sobre as princi
 - **HTML5:** Para estruturar o conteúdo da página.
 - **CSS3:** Para a estilização da interface e design visual, com foco em simplicidade 
 - **JavaScript:** Para adicionar a funcionalidade de pesquisa e manipulação de conteúdo.
-- **IAs Gemine e ChatGPT**: Suporte e sugestões para otimização do projeto.
+- **IAs Gemini e ChatGPT**: Suporte e sugestões para otimização do projeto.
 
 ## 🌐 Como acessar e usar
 
