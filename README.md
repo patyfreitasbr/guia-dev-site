@@ -48,7 +48,7 @@ Um guia simples e prático onde poderão encontrar informações sobre as princi
 
 ## ⏳ Melhorias futuras
 
-- Adicionar novas linguagems e o que estudar sobre cada uma.
+- Adicionar novas linguagens e o que estudar sobre cada uma.
 - Implementar um sistema de paginação para melhorar a exibição dos resultados.
 - Incluir um filtro avançado para permitir buscas mais refinadas.
 - Implementar uma funcionalidade para buscar dados em uma API externa.
