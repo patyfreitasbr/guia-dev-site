@@ -8,7 +8,7 @@
 • [Contribuições](#contribuições) • [Agradecimento](#agradecimento) 
 • [Contato](#contato)
 
-Este projeto está sendo desenvolvido como forma de aprimorar meus conhecimentos nas linguagens HTML, CSS e JavaScript e também usar as Inteligências Artificias como ferramenta de suporte para auxiliar na criação e organização do projeto. Inicialmente foi utilizada a Inteligência Artifial Google Gemini, mas após a imersão, como forma de conhecer mais as princppais I.As estou usando também também a I.A ChatGPT. Foi idealizado durante desafio proposto na [Imersão Dev da Alura + Google Gemini](). 
+Este projeto está sendo desenvolvido como forma de aprimorar meus conhecimentos nas linguagens HTML, CSS e JavaScript e também usar as Inteligências Artificiais como ferramenta de suporte para auxiliar na criação e organização do projeto. Inicialmente foi utilizada a Inteligência Artifial Google Gemini, mas após a imersão, como forma de conhecer mais as princppais I.As estou usando também também a I.A ChatGPT. Foi idealizado durante desafio proposto na [Imersão Dev da Alura + Google Gemini](). 
 
 ## Sobre o projeto
 
