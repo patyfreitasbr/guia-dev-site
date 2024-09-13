@@ -46,7 +46,7 @@ Um guia simples e prático onde poderão encontrar informações sobre as princi
 - `app.js`: Arquivo JavaScript que controla a pesquisa e exibição dos resultados.
 - `dados.js`: Arquivo contendo os dados das linguagens de programação, como título, descrição e link para estudo.
 
-## Melhorias futuras
+## ⏳ Melhorias futuras
 
 - Adicionar novas linguagems e o que estudar sobre cada uma.
 - Implementar um sistema de paginação para melhorar a exibição dos resultados.
