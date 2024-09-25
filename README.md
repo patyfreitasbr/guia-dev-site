@@ -14,7 +14,7 @@ Este projeto está sendo desenvolvido como forma de aprimorar meus conhecimentos
 
 O objetivo desse projeto é fazer dele um ponto de partida para futuros desenvolvedores que desejam iniciar sua jornada no universo da programação.
 
-Um guia simples e prático onde poderão encontrar informações sobre as principais linguagens de forma rápida e eficiente, o que estudar em cada uma delas para coemçar e onde encontrar esses conteúdos de forma gratuita e  paga.
+Um guia simples e prático onde poderão encontrar informações sobre as principais linguagens de forma rápida e eficiente, o que estudar em cada uma delas para começar e onde encontrar esses conteúdos de forma gratuita e  paga.
 
 ## 👀 Demonstração 
 
